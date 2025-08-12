@@ -1,8 +1,9 @@
 # Lab-4- binary classification for bankruptcy predition.
 dataset:  Company Bankruptcy Prediction – (https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
-risk assesment domain
-predicting weather a company will go bankrupt or not as per the features.
 
+risk assesment domain
+
+predicting weather a company will go bankrupt.
 ## 1. Choosing Initial Models
 - **Benchmark**: Logistic Regression → interpretable, fast, and a baseline for comparison.
 - **Advanced Models**: XGBoost + Random Forest → capture non-linear relationships, handle noisy financial data.
